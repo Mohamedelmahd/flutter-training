@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_5/models/home_item_model.dart';
+import 'package:flutter_project/models/home_item_model.dart';
 
 class CardData extends StatelessWidget {
   const CardData({super.key, required this.itemData});
