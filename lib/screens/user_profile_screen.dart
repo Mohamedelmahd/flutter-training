@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_5/screens/logout_screen.dart';
+import 'package:flutter_project/screens/logout_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class UserProfileScreen extends StatefulWidget {
@@ -27,12 +27,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // appBar: AppBar(
-      //   title: const Text('profile'),
-      //   actions: [
-
-      //   ],
-      // ),
+      
       body: Padding(
         padding: const EdgeInsets.all(10),
         child: Column(
