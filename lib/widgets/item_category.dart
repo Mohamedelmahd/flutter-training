@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_5/models/home_item_model.dart';
-import 'package:flutter_application_5/widgets/card_data.dart';
+import 'package:flutter_project/models/home_item_model.dart';
+import 'package:flutter_project/widgets/card_data.dart';
 
 class ItemCategory extends StatelessWidget {
   const ItemCategory(
